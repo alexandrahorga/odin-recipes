@@ -30,3 +30,6 @@ After completing the project, I will return to this section to summarize what I 
 ---
 
 If you’d like, I can tailor the README to your specific project or create a more polished or professional version.
+
+## https://alexandrahorga.github.io/odin-recipes/
+## file:///Users/mac/facultate/master/curs-job/odin-recipes/index.html
